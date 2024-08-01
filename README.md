@@ -1,6 +1,9 @@
-# Santander Dev Week 2023 Java API
+<h1>
+    <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> 
+    <span>LAB com Spring Boot e API REST</span>
+</h1>
 
-RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
+RESTful API da Santander Dev Week 2023 construída em Java 22 com Spring Boot 3.
 
 ## Principais Tecnologias
  - **Java 17**: Utilizaremos a versão LTS mais recente do Java para tirar vantagem das últimas inovações que essa linguagem robusta e amplamente utilizada oferece;
@@ -8,10 +11,6 @@ RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
  - **Spring Data JPA**: Exploraremos como essa ferramenta pode simplificar nossa camada de acesso aos dados, facilitando a integração com bancos de dados SQL;
  - **OpenAPI (Swagger)**: Vamos criar uma documentação de API eficaz e fácil de entender usando a OpenAPI (Swagger), perfeitamente alinhada com a alta produtividade que o Spring Boot oferece;
  - **Railway**: facilita o deploy e monitoramento de nossas soluções na nuvem, além de oferecer diversos bancos de dados como serviço e pipelines de CI/CD.
-
-## [Link do Figma](https://www.figma.com/file/0ZsjwjsYlYd3timxqMWlbj/SANTANDER---Projeto-Web%2FMobile?type=design&node-id=1421%3A432&mode=design&t=6dPQuerScEQH0zAn-1)
-
-O Figma foi utilizado para a abstração do domínio desta API, sendo útil na análise e projeto da solução.
 
 ## Diagrama de Classes (Domínio da API)
 
